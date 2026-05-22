@@ -1,0 +1,6 @@
+{
+  "name": "TripNest",
+  "description": "A modern travel planning web app for creating AI-powered itineraries, tracking travel budgets, searching places, and managing trip bucket lists.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
